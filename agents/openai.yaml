@@ -1,0 +1,4 @@
+interface:
+  display_name: "蓝晒植物明信片"
+  short_description: "将花卉照片转为上下对照海报，搭配微黄粗纸、柔和蓝晒泛光与精致双语花名"
+  default_prompt: "使用 $cyanotype-botanical-postcard 将每张上传照片分别制作成蓝晒植物明信片海报。"
